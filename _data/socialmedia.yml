@@ -6,9 +6,14 @@
 - name: Linked in
   url: https://www.linkedin.com/in/seungsu-lee-a69827169/
   class: fa fa-linkedin-square
-  title: Code repository
+  title: linked in
 
 - name: Contact
   url: "/contact/"
   class: fa fa-envelope-square
   title: "Reach Us"
+
+ - name: CV
+  url: https://drive.google.com/file/d/1WlpQm0JOzT8dzogHYxfHiwOdrtj9v9Kb/view?usp=sharing
+  class: fa fa-pencil-square
+  title: "My CV"

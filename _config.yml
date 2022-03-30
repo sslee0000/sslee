@@ -23,7 +23,7 @@ resume_header_intro: "<p>I am working as software engineer. You can check my CV 
 title:               Seungsu Lee
 #tagline:             'foo's website
 description:         Seungsu Lee's blog
-url: https://sslee0000.github.io/
+url: https://sslee0000.github.io
 baseurl: 
 markdown: kramdown
 paginate: 5
