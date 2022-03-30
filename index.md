@@ -1,11 +1,3 @@
----
-layout: default
-permalink: index.html
-title: Seungsu Lee
-description: "Blogging on ...."
----
-
-<!DOCTYPE html>
 <html>
 
   {% include head.html %}
