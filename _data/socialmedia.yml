@@ -3,6 +3,11 @@
   class: fa fa-github-square
   title: Code repository
 
+- name: Linked in
+  url: https://www.linkedin.com/in/seungsu-lee-a69827169/
+  class: fa fa-linkedin-square
+  title: Code repository
+
 - name: Contact
   url: "/contact/"
   class: fa fa-envelope-square

@@ -52,9 +52,9 @@ links:
   #- title: <i class="iconside iconm-user"></i> About
   #  url: /about/
   - title: <i class="iconside iconm-quill"></i> Blog
-    url: /blog/
+    url: blog/
   - title: <i class="iconside iconm-envelop"></i> Contact
-    url: /contact/
+    url: contact/
 
 # Google Custom Search:
 #google_search: xyz123abc
