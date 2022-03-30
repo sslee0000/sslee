@@ -15,14 +15,14 @@ sass:
 resume_avatar:                  "false"
 resume_name:                    "Seungsu Lee"
 resume_title:                   "Software Engineer"
-resume_contact_email:           contact/
+resume_contact_email:           https://sslee0000.github.io/contact/
 
 #resume_social_links:
 #  resume_github_url:            "https://github.com/sslee0000"
 #  resume_linkedin_url:          "https://www.linkedin.com/in/seungsu-lee-a69827169/"
 resume_print_social_links:      false
 
-resume_header_intro: "<p>Hi! I am working as software engineer. Please check my contact information and CV from the link below. </p>"
+resume_header_intro: "<p>Hi! I am working as software engineer. <br>Please check my contact and CV from the link below. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
