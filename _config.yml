@@ -10,7 +10,7 @@ title:               Seungsu Lee
 #tagline:             'foo's website
 description:         Seungsu Lee's blog
 url: https://sslee0000.github.io/
-baseurl: /
+baseurl: 
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -56,8 +56,8 @@ owner:
 links:
   - title: <i class="iconside iconm-home"></i> Home
     url: /
-  - title: <i class="iconside iconm-user"></i> About
-    url: /about/
+  #- title: <i class="iconside iconm-user"></i> About
+  #  url: /about/
   - title: <i class="iconside iconm-quill"></i> Blog
     url: /blog/
   - title: <i class="iconside iconm-envelop"></i> Contact

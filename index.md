@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of foo boo
+title: Seungsu Lee
 description: "Blogging on ...."
 ---
 
