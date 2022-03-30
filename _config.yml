@@ -5,6 +5,20 @@
 permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
+# Resume settings
+resume_avatar:                  "false"
+resume_name:                    "Seungsu Lee"
+resume_title:                   "Software Engineer"
+resume_contact_email:           "soulist77@gmail.com"
+
+resume_social_links:
+  resume_github_url:            "https://github.com/sslee0000"
+  resume_linkedin_url:          "https://www.linkedin.com/in/seungsu-lee-a69827169/"
+resume_print_social_links:      true
+
+resume_header_intro: "<p>I am working as software engineer. You can check my CV [here](https://drive.google.com/file/d/1WlpQm0JOzT8dzogHYxfHiwOdrtj9v9Kb/view?usp=sharing). </p>"
+
+
 # Setup
 title:               Seungsu Lee
 #tagline:             'foo's website
