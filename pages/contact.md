@@ -20,9 +20,9 @@ tags:
 
 | <i class="fa fa-envelope"></i> | soulist77@gmail.com   | 
 | - | :- |
-| <i class="fa fa-linkedin">  | [Seungsu Lee](https://www.linkedin.com/in/seungsu-lee-a69827169/) | 
+| <i class="fa fa-linkedin">  | [linked in](https://www.linkedin.com/in/seungsu-lee-a69827169/) | 
 | - | :- |
-| <i class="fa fa-github">  | (https://github.com/sslee0000/) | 
+| <i class="fa fa-github">  | [github](https://github.com/sslee0000/) | 
 | - | :- |
 | <i class="fa fa-file">  | [Curriculum Vitae](https://drive.google.com/file/d/1WlpQm0JOzT8dzogHYxfHiwOdrtj9v9Kb/view?usp=sharing) 
 | - | :- |
