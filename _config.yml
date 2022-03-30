@@ -20,7 +20,7 @@ resume_contact_email:           "soulist77@gmail.com"
 resume_social_links:
   resume_github_url:            "https://github.com/sslee0000"
   resume_linkedin_url:          "https://www.linkedin.com/in/seungsu-lee-a69827169/"
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 resume_header_intro: "<p>Hi! I am working as software engineer. </p>"
 
